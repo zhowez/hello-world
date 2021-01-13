@@ -1,2 +1,2 @@
 # hello-world
-This is a intro to git n CPSC 3720
+This is a intro to git in CPSC 3720
